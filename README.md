@@ -1,7 +1,7 @@
 # Bem Vindos ao MyLinkTree-Instagram-Bio
 > Este Projeto foi criado com intuito de acrescentar um projeto Front-end, ao meu portifólio e colocar em prática meus estudos. As tecnologias utilizadas nesse projeto foram: HTML e CSS, para os ícones utilizei o Font-Awesome na versão 6.0.0.
 
-<img src="Images/my-avatar.jpeg"/> 
+<img src="Images/my-link-tree.jpeg"/> 
 
 ## Instalação e uso
 
